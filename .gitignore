@@ -1,0 +1,12 @@
+node_modules/
+coverage/
+dist/
+.env
+.DS_Store
+.idea/
+.vscode/
+.pnpm-store/
+.ai-code
+.agents
+.codex
+AGENTS.md
